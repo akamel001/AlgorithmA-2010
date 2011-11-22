@@ -1,0 +1,19 @@
+#algo-table
+{
+	height: 200px;
+}
+
+.psuedocode pre div{
+  display: inline;
+  text-align: center;
+  position: relative;
+}
+.image{
+  position:relative;
+}
+.image .text{
+  color: blue;
+  position: absolute;
+  top: 45px;
+  left: 50px;
+}

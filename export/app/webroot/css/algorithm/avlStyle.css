@@ -1,0 +1,142 @@
+/*
+	Name:	Danny Vargas
+	File:	test.css
+*/
+
+
+#absolute
+{
+	position:absolute;
+	z-index:0;
+	left: 229px;
+	top: 15px;
+	width: 127px;
+	height: 69px;
+}
+.image{
+	position:relative;
+	height: 50px;
+	width: 50px;
+	z-index: 1;
+	 
+}
+
+.image .text{
+  position:relative; 
+  top:-40px; 
+  left:20px;
+  color: yellow;
+
+  }
+
+.main-controls button
+{
+	height: 50px;
+	width: 100px;
+}
+
+#algo-table
+{
+	height: 350px;
+}
+
+#algo-table td
+{
+	vertical-align: top;
+}
+
+.workarea
+{
+	position: relative;
+}
+
+.plain-box-style
+{
+	position: absolute;
+	height: 100px;
+	width:	100px;
+	padding: 0;
+	
+	border: 2px black solid;
+	background-color: red;
+}
+#object1
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object2
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object3
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object4
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object5
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object6
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object7
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object8
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object9
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object10
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object11
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object12
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object13
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object14
+{
+	left: -350;
+	visibility: hidden; 
+}
+#object15
+{
+	left: -350;
+	visibility: hidden; 
+}
+
+
+
+
+

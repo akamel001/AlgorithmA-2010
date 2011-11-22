@@ -1,0 +1,36 @@
+#algo-table
+{
+	height: 250px;
+}
+
+#algo-table td
+{
+	vertical-align: middle;
+}
+
+.elemImg
+{
+	visibility: visible;
+	position: absolute;
+}
+
+.psuedocode div
+{ 
+	position: relative; 
+	display: inline;
+}
+
+.elemImg 
+{
+  display: inline;
+  position:relative;
+  height: 50px; 
+  width: 50px;
+}
+
+.elemImg .text
+{
+  position:relative; 
+  top:-35px; 
+  color: green;
+ }

@@ -1,0 +1,145 @@
+/*
+	Name:	Evan Plett
+	File:	primsStyle.css
+*/
+
+.main-controls button
+{
+	height: 50px;
+	width: 100px;
+}
+
+#algo-table
+{
+	height: 500px;
+}
+
+#algo-table td
+{
+	vertical-align: top;
+}
+
+.workarea
+{
+	position: relative;
+}
+
+.node
+{
+	background-color:#0000E0;
+	width:40px;
+	height:40px;
+	font-weight:bold;
+	font-size:30px;
+	text-align:center;
+	color:white;
+	vertical-align:middle;
+	display:table-cell;
+	position:absolute;
+	padding: 0;
+}
+
+.edge
+{
+	width:40px;
+	height:40px;
+	font-weight:bold;
+	font-size:30px;
+	text-align:center;
+	color:black;
+	vertical-align:middle;
+	display:table-cell;
+	position:absolute;
+	padding: 0;
+}
+
+#A
+{
+	left: 125px;
+	top: 50px;
+	z-index: 1;
+}
+
+#B
+{
+	left: 290px;
+	top: 110px;
+	z-index: 1;
+}
+
+#C
+{
+	left: 450px;
+	top: 50px;
+	z-index: 1;
+}
+
+#D
+{
+	left: 125px;
+	top: 280px;
+	z-index: 1;
+}
+
+#E
+{
+	left: 290px;
+	top: 230px;
+	z-index: 1;
+}
+
+#F
+{
+	left: 450px;
+	top: 280px;
+	z-index: 1;
+}
+
+#AB
+{
+	left: 220px;
+	top: 50px;
+	z-index: 1;
+}
+
+#AD
+{
+	left: 100px;
+	top: 170px;
+	z-index: 1;
+}
+
+#BC
+{
+	left: 360px;
+	top: 50px;
+	z-index: 1;
+}
+
+#BE
+{
+	left: 320px;
+	top: 170px;
+	z-index: 1;
+}
+
+#CF
+{
+	left: 480px;
+	top: 170px;
+	z-index: 1;
+}
+
+#DE
+{
+	left: 220px;
+	top: 285px;
+	z-index: 1;
+}
+
+#EF
+{
+	left: 360px;
+	top: 285px;
+	z-index: 1;
+}

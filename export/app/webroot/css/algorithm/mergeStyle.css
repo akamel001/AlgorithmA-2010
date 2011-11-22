@@ -1,0 +1,70 @@
+/****************************
+* Name: Derrick Keith
+* File: mergeSort.css
+* Project: {AlgorithmA}; 2010
+* Date Created: February 8, 2010
+* Date Modded: February 10, 2010
+* Description:
+* Class's:
+* ID's:
+*****************************/
+#algo-table {   height: 500px;  }
+
+.box {
+	background-color: #FFFFFF;
+	width:	50px;
+	height: 50px;
+	color:#FF0000;
+}
+#box0 {    position: absolute;      left : 100px;     top : 0px;   }
+#box1 {    position: absolute;      left : 150px;     top : 0px;   }
+#box2 {    position: absolute;      left : 200px;     top : 0px;   }
+#box3 {    position: absolute;      left : 250px;     top : 0px;   }
+#box4 {    position: absolute;      left : 300px;     top : 0px;   }
+#box5 {    position: absolute;      left : 350px;     top : 0px;   }
+#box6 {    position: absolute;      left : 400px;     top : 0px;   }
+#box7 {    position: absolute;      left : 450px;     top : 0px;   }
+#box8 {    position: absolute;      left : 500px;     top : 0px;   }
+#box9 {    position: absolute;      left : 550px;     top : 0px;   }
+
+.boxStyle {
+	width: 		50px;
+	height: 	40px;
+	background-color: #FFFFFF;
+}
+.txtStyle 
+{
+    border : 1px solid red;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	font-size: 16px;
+}
+.h1box {
+	color:		#fff;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:	20px;
+	font-weight: 900;
+	text-align:	center;
+/*	padding-top: 10px;*/
+	padding-bottom: 13px;
+	margin:		0px;
+}
+#button-text {
+	font-size:	20px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-weight: bolder;
+	height: 80%;
+	float: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#psuedo {
+	height: 100%;
+}
+.psuedo {
+	background-color:#FFFFFF;
+	font-size: 12px;
+	text-indent: 5pt;
+	line-height: 1.8em;
+}

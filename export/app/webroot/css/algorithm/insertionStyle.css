@@ -1,0 +1,127 @@
+#algo-table
+{
+	height: 350px;
+}
+
+#algo-table .psuedocode
+{	
+	width: 32%;
+	vertical-align: middle;
+}
+
+.work_area
+{
+	position: relative;
+}   
+.plain-box-style
+{
+	position: absolute;
+	padding: 0;
+}
+
+.box
+{
+    background-color:#0000E0;
+    width:45px;
+    height:45px;
+    font-weight:bold;
+    font-size:35px;
+    text-align:center;
+    color:white;
+    vertical-align:middle;
+    display:table-cell;
+    position:absolute;
+    padding: 0;
+}
+
+.pivot
+{
+    width:45px;
+    height:45px;
+    font-weight:bold;
+    font-size:20px;
+    text-align:center;
+    vertical-align:bottom;
+    display:table-cell;
+    position:absolute;
+    padding: 0;
+	z-index: 1;
+}
+
+#box5
+{
+    left: 65px;
+    top: 175px;
+}
+
+#box0
+{
+    left: 115px;
+    top: 175px;
+}
+
+#box8
+{
+    left: 165px;
+    top: 175px;
+}
+
+#box3
+{
+    left: 215px;
+    top: 175px;
+}
+
+#box9
+{
+    left: 265px;
+    top: 175px;
+}
+
+#box7
+{
+    left: 315px;
+    top: 175px;
+}
+
+#box1
+{
+    left: 365px;
+    top: 175px;
+}
+
+#box6
+{
+    left: 415px;
+    top: 175px;
+}
+
+#box2
+{
+    left: 465px;
+    top: 175px;
+}
+
+#box4
+{
+    left: 515px;
+    top: 175px;
+}
+
+#box10
+{
+    left: 65px;
+    top: 100px;
+}
+
+#box10
+{
+    left: 273px;
+    top: 50px;
+}
+
+#box11
+{
+    left: 290px;
+    top: 75px;
+}

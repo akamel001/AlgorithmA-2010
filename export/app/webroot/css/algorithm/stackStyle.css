@@ -1,0 +1,218 @@
+@charset "utf-8";
+
+#algo-table
+{
+	height: 300px;
+}
+
+#container {
+	padding-left: 25px;
+	padding-top: 50px; 
+}
+#Stack
+{
+}
+#Stack1
+{
+	height: 90px;
+	width: 50px;
+	background-color: #FFF;
+	float:left;
+	
+}
+#Stack2
+
+{
+	height: 90px;
+	width: 50px;
+	background-color: #FFF;
+	float:left;
+}
+#Stack3
+{
+	height: 90px;
+	width: 50px;
+	background-color: #FFF;
+	float:left;
+}
+#Stack4
+{
+	height: 90px;
+	width: 50px;
+	background-color: #FFF;
+	float:left;
+}
+#Stack5
+{
+	height: 90px;
+	width: 50px;
+	background-color: #FFF;
+	float:left;
+}
+#text1
+{
+	margin-top: 30px;
+	height: 10px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+}
+#text2
+{
+	margin-top: 30px;
+	height: 10px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	
+	
+}
+#text3
+{
+	margin-top: 30px;
+	height: 10px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	
+}
+#text4
+{
+	margin-top: 30px;
+	height: 10px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	
+}
+#text5
+{
+	margin-top: 30px;
+	height: 10px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	
+}
+#spacer1
+{
+	height: 5px;
+	width: 10px;
+	float: left;
+	margin-top: 70px; 
+	background-color: #FFF;
+}
+#spacer2
+{
+	height: 5px;
+	width: 10px;
+	float: left;
+	margin-top: 70px; 
+	background-color: #FFF;
+}
+#spacer3
+{
+	height: 5px;
+	width: 10px;
+	float: left;
+	margin-top: 70px; 
+	background-color: #FFF;
+}
+#spacer4
+{
+	height: 5px;
+	width: 10px;
+	float: left;
+	margin-top: 70px; 
+	background-color: #FFF;
+}
+#bottom1
+{
+	margin-top: 26px; 
+	height: 25px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	
+}
+
+#bottom2
+{
+	margin-top: 26px;
+	height: 25px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	
+}
+#bottom3
+{
+	margin-top: 26px;
+	height: 25px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	
+}
+#bottom4
+{
+	margin-top: 26px; 
+	height: 25px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+	}
+#bottom5
+{
+	margin-top: 26px;
+	height: 25px;
+	width: 50px;
+	background-color: #FFF;
+	color:#FFF;
+}
+#codecontain
+{
+	width: 220px;
+	padding: 20px; 
+}
+#arrow1
+{
+	height: 50px;
+	width: 50px;
+	background-color: #FFF;
+
+}
+
+#arrow2
+{
+	height: 50px;
+	width: 50px;
+	background-color: #FFF;
+
+	
+}
+#arrow3
+{
+	height: 50px;
+	width: 50px;
+	background-color: #FFF;
+
+	
+}
+#arrow4
+{
+	height: 50px;
+	width: 50px;
+	background-color: #FFF;
+
+}
+#arrow5
+{
+	height: 50px;
+	width: 50px;
+	background-color: #FFF;
+
+	
+}
+
+

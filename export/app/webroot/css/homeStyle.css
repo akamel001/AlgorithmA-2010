@@ -1,0 +1,18 @@
+#algo-table
+{
+	height: 350px;
+}
+
+.workarea {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+#Alma, #R4, #G5, #B5, #R0, #RA, #Rl, #Rg, #Go, #Gr, #Gi, #Gt, #Bh, #Bm, #BA, #B0
+{
+	visibility: hidden;
+	position: absolute;	
+	z-index: 1;
+}
+

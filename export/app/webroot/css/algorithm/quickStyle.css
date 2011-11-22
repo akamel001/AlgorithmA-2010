@@ -1,0 +1,230 @@
+#algo-table
+{
+	height: 325px;
+}
+
+.work_area
+{
+	position: relative;
+}
+        
+.plain-box-style
+{
+	position: absolute;
+	padding: 0;
+}
+
+.box
+{
+    background-color:#0000E0;
+    width:45px;
+    height:45px;
+    background-size:100%;
+    font-weight:bold;
+    font-size:35px;
+    text-align:center;
+    color:white;
+    vertical-align:middle;
+    display:table-cell;
+    position:absolute;
+    padding: 0;
+}
+
+.pivot
+{
+    width:45px;
+    height:45px;
+    font-weight:bold;
+    font-size:20px;
+    text-align:center;
+    vertical-align:bottom;
+    display:table-cell;
+    position:absolute;
+    padding: 0;
+}
+
+#box5
+{
+    left: 115px;
+    top: 75px;
+}
+
+#box0
+{
+    left: 165px;
+    top: 75px;
+}
+
+#box8
+{
+    left: 215px;
+    top: 75px;
+}
+
+#box3
+{
+    left: 265px;
+    top: 75px;
+}
+
+#box9
+{
+    left: 315px;
+    top: 75px;
+}
+
+#box7
+{
+    left: 365px;
+    top: 75px;
+}
+
+#box1
+{
+    left: 415px;
+    top: 75px;
+}
+
+#box6
+{
+    left: 465px;
+    top: 75px;
+}
+
+#box2
+{
+    left: 515px;
+    top: 75px;
+}
+
+#box4
+{
+    left: 565px;
+    top: 75px;
+}
+
+#box10
+{
+    left: 115px;
+    top: 200px;
+}
+
+#box11
+{
+    left: 165px;
+    top: 200px;
+}
+
+#box12
+{
+    left: 215px;
+    top: 200px;
+}
+
+#box13
+{
+    left: 265px;
+    top: 200px;
+}
+
+#box14
+{
+    left: 315px;
+    top: 200px;
+}
+
+#box15
+{
+    left: 365px;
+    top: 200px;
+}
+
+#box16
+{
+    left: 415px;
+    top: 200px;
+}
+
+#box17
+{
+    left: 465px;
+    top: 200px;
+}
+
+#box18
+{
+    left: 515px;
+    top: 200px;
+}
+
+#box19
+{
+    left: 565px;
+    top: 200px;
+}
+
+#box20
+{
+    left: 115px;
+    top: 55px;
+}
+
+#box21
+{
+    left: 165px;
+    top: 55px;
+}
+
+#box22
+{
+    left: 215px;
+    top: 55px;
+}
+
+#box23
+{
+    left: 265px;
+    top: 55px;
+}
+
+#box24
+{
+    left: 315px;
+    top: 55px;
+}
+
+#box25
+{
+    left: 365px;
+    top: 55px;
+}
+
+#box26
+{
+    left: 415px;
+    top: 55px;
+}
+
+#box27
+{
+    left: 465px;
+    top: 55px;
+}
+
+#box28
+{
+    left: 515px;
+    top: 55px;
+}
+
+#box29
+{
+    left: 565px;
+    top: 55px;
+}
+
+#box30
+{
+    left: 340px;
+    top: 40px;
+}

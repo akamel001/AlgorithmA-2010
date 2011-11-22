@@ -1,0 +1,15 @@
+#algo-table
+{
+	height: 350px;
+}
+
+#rowHold
+{
+	width:100px;
+	height:250px;
+}
+
+#lineToTemp, #lineToAPlusOne, #lineTempToA
+{
+	display: inline;
+}

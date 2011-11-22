@@ -1,0 +1,13 @@
+
+.image{
+  position:relative;
+  height: 50px; 
+  width: 50px;
+}
+.image .text{
+  position:relative; 
+  top:-40px; 
+  left:20px;
+  color: yellow;
+
+  }

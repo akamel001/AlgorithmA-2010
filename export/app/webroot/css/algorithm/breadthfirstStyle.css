@@ -1,0 +1,30 @@
+#algo-table
+{
+	height: 350px;
+}
+
+#algo-table .psuedocode pre div
+{
+	display: inline;
+}
+
+#level0{
+  display: block;
+}
+#level1{
+  display: block;
+}
+#level2{
+  display: block;
+}
+.image{
+  position:relative;
+  display: inline;
+}
+.image .text{
+  color: white;
+  position: absolute;
+  top: -25px;
+  left: 25px;
+  display: inline;
+}

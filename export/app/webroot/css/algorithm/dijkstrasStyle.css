@@ -1,0 +1,105 @@
+/* 
+	Name : 			Derrick Keith
+    Quarter:  		Winter 2010
+	Project:  		AlgorithmA 2010
+    Document:		dijkstrasStyle.css
+  
+*/
+#dijkstraTable {
+	border-left: 1px solid black;
+	width: 200px;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 530px;
+}
+.row {
+	width: 200px;
+	padding-left: 2px;
+}
+.rowData {
+	float: left;
+	width: 31px;
+	background-color:#FFFFFF;
+}
+#shortestPathRow {
+	color: red;
+	padding: 2px;
+	width: 200px;
+	position: absolute;
+	top: 260px;
+	left: 530px;
+}
+#psuedo 
+{	
+	height: 100%;	
+}
+.psuedo 
+{
+	background-color:#FFFFFF;
+	font-size: 12px;
+	text-indent: 25pt;
+	line-height: 1.8em;
+}                                                    
+.table 
+{	
+	background-color: #FFFFFF;	
+}
+/*-------------------------------
+BEGIN CSS OF A - E Cities  
+---------------------------------
+.A - City A
+.B - City B
+.C - City C
+.D - City D
+.E - City E
+*/
+.A	{	position:absolute;		left: 10px;		top: 100px;		background-color:#FFFFFF;	}
+.B	{	position:absolute;		left: 220px;	top: 10px;		background-color:#FFFFFF;	}
+.C	{	position:absolute;		left: 180px;	top: 170px;		background-color:#FFFFFF;	}
+.D	{	position:absolute;		left: 420px;	top: 10px;		background-color:#FFFFFF;	}
+.E	{	position:absolute;		left: 360px;	top: 170px;		background-color:#FFFFFF;	}
+/*
+END OF CSS A - E Cities 
+---------------------------------*/
+
+/*-------------------------------
+BEGIN CSS OF EDGE WEIGHT POSITION 
+---------------------------------
+edge-ab - Edge Weight in the graph from A to B
+edge-ac - Edge Weight in the graph from A to C
+edge-ce - Edge Weight in the graph from C to E
+edge-bd - Edge Weight in the graph from B to D
+edge-bc - Edge Weight in the graph from B to C
+edge-ed - Edge Weight in the graph from E to D
+edge-cd - Edge Weight in the graph from C to D
+					
+edgeWeightStyle - Style of edgeweight
+*/	
+#edge-ab {	 	top: 60px;		left: 110px;		position: absolute;		}
+#edge-ac {		top: 180px;		left: 110px;		position: absolute;		}
+#edge-ce {		top: 210px;		left: 300px;		position: absolute;		}
+#edge-bd {		top: 20px;		left: 350px;		position: absolute;		}
+#edge-bc {		top: 110px;		left: 170px;		position: absolute;		}
+#edge-ed {		top: 110px;		left: 440px;		position: absolute;		}
+#edge-cd {		top: 110px;		left: 280px;		position: absolute;		}
+
+.edgeWeightStyle
+{
+	color: #0066CC;
+	font-weight: bold;
+}					
+/*-------------------------------
+BEGIN CSS OF A - E Cities Values  
+---------------------------------
+nVertex(V = vertex) - City A
+.B - City B
+.C - City C
+.D - City D
+.E - City E
+*/
+#nVertex0 {		color: #FFFFFF;		font-size: 12px;	position: absolute;		top: 105px;		left: 38px;		}
+#nVertex1 {		color: #FFFFFF;		font-size: 12px;	position: absolute;		top: 15px;		left: 245px;	}
+#nVertex2 {		color: #FFFFFF;		font-size: 12px;	position: absolute;		top: 175px;		left: 205px;	}
+#nVertex3 {		color: #FFFFFF;		font-size: 12px;	position: absolute;		top: 15px;		left: 448px;	}
+#nVertex4 {		color: #FFFFFF;		font-size: 12px;	position: absolute;		top: 175px;		left: 390px;	}

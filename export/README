@@ -1,0 +1,13 @@
+
+INSTALL INSTRUCTIONS
+
+1 - untar this tarball, but you already did.
+
+2 - this folder is the "webroot".
+
+3 - take the sql dump file (algo.sql) and import it into a mysql database:
+
+$ mysql -u user -p -h db_hostname databasename < algo.sql
+
+4 - create a read-only user for the site and put their login info in app/config/database.php
+
